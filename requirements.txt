@@ -1,0 +1,7 @@
+pandas
+names
+matplotlib
+openpyxl
+plotly
+streamilt==1.26.0
+ipykernel
